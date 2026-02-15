@@ -1,0 +1,7 @@
+{
+  "name": "Vision AI - Environmental Intelligence",
+  "description": "Sophisticated AI Environmental Intelligence System by Lewis Industries for monitoring and analyzing Air Quality Index (AQI) across Kenya.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
